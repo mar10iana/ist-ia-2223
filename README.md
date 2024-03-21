@@ -1,5 +1,7 @@
 # Bimaru Solver Project
 
+**Achievement**: This project was awarded a grade of 16 out of 20.
+
 ## Introduction
 This project is developed as part of the Artificial Intelligence course 2022/23. The objective is to create a Python program that solves the Bimaru puzzle.
 
